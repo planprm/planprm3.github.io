@@ -19,7 +19,7 @@ Yandex.Деньги: Номер кошелька: 410011048556136
 
 ## План применения удобрений v2.1.0
 
-[Расчет причитающихся субсидий v1.0](https://snoocppy.github.io/planprm/downloads.html)
+[План применения удобрений v2.1.0](https://snoocppy.github.io/planprm/downloads.html)
 
 **Удобный интерфейс**
 
