@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## Добро пожаловать на MyIAZblog
 
-You can use the [editor on GitHub](https://github.com/snoocppy/snoocppy.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Расчет причитающихся субсидий v.1.0
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Программа для расчета агрохимических норм доз NPK удобрений Азота,Фосфора и Калия.
 
-### Markdown
+Внимание! Программа поддерживает
+Операционную Систему Windows XP с OpenGl
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Лицензия:LGPL
 
-```markdown
-Syntax highlighted code block
+Пожертвовать проекту План применения удобрений,Расчет причитающихся субсидий,Показатель плодородия почв.
+Yandex.Деньги: Номер кошелька: 410011048556136
 
-# Header 1
-## Header 2
-### Header 3
+Скачать: Расчет причитающихся субсидий v1.0, Показатель плодородия почв v1.0.ОС: Windows XP, 7, 10.
+[Скачать программу](https://snoocppy.github.io/planprm/setup3.exe)
 
-- Bulleted
-- List
+### План применения удобрений v2.1.0
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+# Удобный интерфейс
 
-[Link](url) and ![Image](src)
-```
+[Скачать План применения Удобрений v2.1.0](https://snoocppy.github.io/planprm/setup2planprm2.exe)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Интерфейс программы позволит с удобством Вам проделывать свою работу.
+#Множество овощовых культур
 
-### Jekyll Themes
+Обилие большого количества овощовых культур позволит Вам с легкостью считать дозы для Азота, Фосфора, Калия.
+#Простота работы
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/snoocppy/snoocppy.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+С помощью данной программы Вы запросто сосчитаете себе почвенные нормы для удобрений.
+#Полезна для почв
 
-### Support or Contact
+С этой программой Вы обязательно получите нужный Вам урожай.
+#Для чего она нужна?
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Программа нужна для расчета таких удобрений, в которые вносятся Азот,Фосфор и Калий.
+#Поддержка
+
+Программа поддерживается государственной агрохимической службой.
+
+Операционная система: Windows XP и выше + с обязательной поддержкой OpenGl.
+
+На чем написана? Написана на языке C++ с использованием фреймворка Qt.
+
+
