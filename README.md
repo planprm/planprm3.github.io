@@ -17,7 +17,7 @@
 
 Программа для расчета агрохимических норм доз NPK удобрений Азота,Фосфора и Калия.
 
-[План применения удобрений v2.1.0](https://snoocppy.github.io/planprm/downloads.html)
+[План применения удобрений v2.1.0](https://snoocppy.github.io/planprm/download.html)
 
 **Удобный интерфейс**
 
