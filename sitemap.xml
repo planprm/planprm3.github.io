@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!-- Файл sitemap.xml динамически создан сайтом https://gensitemap.ru/ 26.03.2017 13:17,
+	всего найдено 5. страниц-->
+	<url>
+		<loc>https://snoocppy.github.io/</loc>
+		<lastmod>2017-03-26T13:17:34+03:00</lastmod>
+		<priority>1</priority>
+		<changefreq>always</changefreq>
+	</url>
+	<url>
+		<loc>https://snoocppy.github.io/planprm/about.html</loc>
+		<lastmod>2017-03-26T13:17:34+03:00</lastmod>
+		<priority>0.3</priority>
+		<changefreq>daily</changefreq>
+	</url>
+	<url>
+		<loc>https://snoocppy.github.io/planprm/contacts.html</loc>
+		<lastmod>2017-03-26T13:17:34+03:00</lastmod>
+		<priority>0.3</priority>
+		<changefreq>daily</changefreq>
+	</url>
+	<url>
+		<loc>https://snoocppy.github.io/planprm/download.html</loc>
+		<lastmod>2017-03-26T13:17:34+03:00</lastmod>
+		<priority>0.5</priority>
+		<changefreq>hourly</changefreq>
+	</url>
+	<url>
+		<loc>https://snoocppy.github.io/planprm/index.html</loc>
+		<lastmod>2017-03-26T13:17:34+03:00</lastmod>
+		<priority>0.3</priority>
+		<changefreq>daily</changefreq>
+	</url>
+</urlset>		     		    			    
