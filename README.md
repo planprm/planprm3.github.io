@@ -30,7 +30,7 @@
 
 [Скачать План применения Удобрений v2.1.0](https://snoocppy.github.io/planprm/planprm8setup8.exe)
 
-[Скачать Демо План применения удобрений v2.1.2](https://snoocppy.github.io/planprm/planprm2demo(apk).zip)
+[Скачать Демо План применения удобрений v2.1.2](https://snoocppy.github.io/planprm2demo(apk).zip)
 
 Интерфейс программы позволит с удобством Вам проделывать свою работу.
 **Множество овощовых культур**
