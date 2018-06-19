@@ -1,7 +1,7 @@
 ## Добро пожаловать на MyIAZblog
-Я @amirismagilov twitter vk
+Я [@amirismagilov](https://vk.com/amirismagilov) [@amirismagillov twitter](https://twitter.com/amirismagilov)
 
-  @ismagilovamir facebook
+  [@ismagilovamir](https://facebook.com/ismagilovamir) 
 # Пожертвовать проекту
 
 Удобрения, минеральные удобрения, применение удобрений, калькулятор расчета удобрений, пример расчета удобрений.
