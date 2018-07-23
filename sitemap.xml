@@ -18,6 +18,11 @@
   <priority>0.80</priority>
 </url>
 <url>
+  <loc>https://snoocppy.github.io/itnews/index.html</loc>
+  <lastmod>2018-06-27T10:59:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>      
+<url>
   <loc>https://snoocppy.github.io/planprm/index.html</loc>
   <lastmod>2018-06-27T10:59:07+00:00</lastmod>
   <priority>0.64</priority>
