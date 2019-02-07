@@ -57,6 +57,6 @@
 
 http://planprm.com/
 
-https//snoocppy.github.io(https://snoocppy.github.io)
+[https//snoocppy.github.io](https://snoocppy.github.io)
 
-https://helloshop.herokuapp.com(https://helloshop.herokuapp.com)
+[https://helloshop.herokuapp.com](https://helloshop.herokuapp.com)
