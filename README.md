@@ -56,3 +56,7 @@
 На чем написана? Написана на языке C++ с использованием фреймворка Qt.
 
 http://planprm.com/
+
+https//snoocppy.github.io(https://snoocppy.github.io)
+
+https://helloshop.herokuapp.com(https://helloshop.herokuapp.com)
