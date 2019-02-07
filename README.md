@@ -55,6 +55,10 @@
 
 На чем написана? Написана на языке C++ с использованием фреймворка Qt.
 
+**Ищу подработку, удаленную работу, в общем, работу**
+Я Исмагилов А.З. ищу подработку, удаленную работу, работу
+Умею программировать python, flask, c/c++, javascript, php, mysql, html, css
+
 http://planprm.com/
 
 [https//snoocppy.github.io](https://snoocppy.github.io)
